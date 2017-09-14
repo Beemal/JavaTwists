@@ -6,7 +6,7 @@ public class IncrementTest {
 		int i = 0;
 		int j = 0;
 		for(int z = 0; z < 5; z++){
-			if((++i>2) && (++j>2)){
+			if((++i > 2) && (++j > 2)){
 				i++;
 			}
 		}
