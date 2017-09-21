@@ -19,7 +19,6 @@ public class ArmStrongNumber {
 		}
 		String result = (sum == num) ? "Yes ArmStrong" : "Not an ArmStrong";
 		System.out.println(result);
-		
 	}
 
 }
